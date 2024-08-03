@@ -8,6 +8,7 @@ import { Component } from '@angular/core';
 export class LoginComponent {
 
   constructor(){
+    console.log('kjfweiuf wefuwbifuwergf ');
 
   }
 
